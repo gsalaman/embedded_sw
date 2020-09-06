@@ -4,6 +4,7 @@
 * Blink example - tweak delays
 * New LED:  pinMode & digitalWrite
 * #defines and the pre-processor
+* Serial.prints
 * variables - global.  type, name, initializer
 * Control structures:while,if,for
 * Functions & parameters
